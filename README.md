@@ -1,6 +1,6 @@
 #  Phony Bulletin Revealer
 
-In this project, we have used various natural language processing techniques and machine learning algorithms to classifty fake news articles using sci-kit libraries from python. 
+In this project, we have used various natural language processing techniques and machine learning algorithms to classify fake news articles using sci-kit libraries from python. 
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them:
+What things you need to install prior the software and how to install them:
 
 1. Python 3.6 
    - This setup requires that your machine has python 3.6 installed on it. you can refer to this url https://www.python.org/downloads/ to download python. Once you have python downloaded and installed, you will need to setup PATH variables (if you want to run python program directly, detail instructions are below in *how to run software section*). To do that check this: https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/.  
@@ -19,13 +19,13 @@ What things you need to install the software and how to install them:
    - numpy
    - scipy
    
-  - if you have chosen to install python 3.6 then run below commands in command prompt/terminal to install these packages
+  - if you have chosen to install python 3.6 then run below commands in command prompt/terminal to install these packages.
    ```
    pip install -U scikit-learn
    pip install numpy
    pip install scipy
    ```
-   - if you have chosen to install anaconda then run below commands in anaconda prompt to install these packages
+   - if you have chosen to install anaconda then run below commands in anaconda prompt to install these packages.
    ```
    conda install -c scikit-learn
    conda install -c anaconda numpy
